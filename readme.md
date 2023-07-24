@@ -1,5 +1,5 @@
 
-# calculator written in JS
+# Average of 5 numbers written in JS
 
 This is a project to calculate avg 5 numbers, if the avg is less than or equal to 12, it shows the word Rejected, and if it is more than 12, it shows number avg.
 which is part C of Exercise(23) of Bootcamp 1402
