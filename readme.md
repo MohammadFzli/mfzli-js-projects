@@ -1,5 +1,5 @@
 
-# calculator written in JS
+# Capitalization of English letters written in JS
 
 This project is an English lowercase to uppercase converter written in JavaScript written,
 which is part B of Exercise(23) of Bootcamp 1402
