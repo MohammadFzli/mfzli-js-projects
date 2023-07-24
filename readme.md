@@ -1,5 +1,5 @@
 
-# calculator written in JS
+# calculator using function and switch written in JS
 
 This project is a simple calculator using function and switch is written in JavaScript,
  which is part A of Exercise(23) of Bootcamp 1402
