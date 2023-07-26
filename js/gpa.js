@@ -1,5 +1,5 @@
 let number=0;
-const avg=0;
+let avg=0;
 let counter=0;
 
 function avrage(num){
@@ -9,17 +9,17 @@ function avrage(num){
     counter+=1;
     if(counter===5){
 
-        number=number/5;
+        avg=number/5;
 
-        if(number <= 12){
+        if(avg <= 12){
 
             console.log(" Rejected ");
             document.writeln(" ===> [Rejected] ");
         }
         else{
 
-            console.log(" avg = ", number);
-            document.writeln(" ===> avg:[ ", number, " ] ");
+            console.log(" avg = ", avg);
+            document.writeln(" ===> avg:[ ", avg, " ] ");
         }
     }
 }
