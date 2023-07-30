@@ -1,8 +1,7 @@
 
-# Fahrenheit to Celsius temperature converter written in JS
+# one object with two empty functions written in JS
 
-This is a project to This project takes the Fahrenheit temperature and converts it to silicon degree using the function and displays it in the output.
-which is part A of Exercise(24) of Bootcamp 1402
+The project of building a product with an object with two empty functions to add and remove from the shopping cart
 
 ## Installation
 
@@ -16,4 +15,4 @@ Install VScode
 ## Instructions
 
 ### Steps to work with the program:
-1. Enter your Celsius Temperature, then press Enter.
+...
